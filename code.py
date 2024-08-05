@@ -1,1 +1,0 @@
-print("Seshagiri rao Thota + Entry Grats")
